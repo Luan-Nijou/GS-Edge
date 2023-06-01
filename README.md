@@ -21,7 +21,7 @@
 
 :small_blue_diamond: [Como rodar os testes](#Como-rodar-os-testes)
 
-:small_blue_diamond: [Linguagem](#linguagem)
+:small_blue_diamond: [Linguagem Usada](#linguagem-Usada)
 
 :small_blue_diamond: [Desenvolvedores](#desenvolvedores-octocat)
 
@@ -65,7 +65,7 @@ Coloque um passo a passo para executar os testes
 
 
 
-## Linguagem
+## Linguagem Usada
 
 <img src="https://www.alura.com.br/artigos/assets/formacao-linguagem-c-plus-plus/img-01.png" width=50/>
 
