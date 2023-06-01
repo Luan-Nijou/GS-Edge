@@ -11,19 +11,27 @@
 
 ### Tópicos 
 
+:small_blue_diamond: [Acesso ao projeto](#📁-acesso-ao-projeto)
+
 :small_blue_diamond: [Descrição do projeto](#descrição-do-projeto)
 
-:small_blue_diamond: [Funcionalidades](#funcionalidades)
-
-:small_blue_diamond: [Layout da Aplicação](#layout-da-Aplicação)
-
-:small_blue_diamond: [Pré-requisitos](#pré-requisitos)
+:small_blue_diamond: [Layout da Simulação](#layout-da-simulação)
 
 :small_blue_diamond: [Como rodar a aplicação](#como-rodar-a-aplicação-arrow_forward)
 
-... 
+:small_blue_diamond: [Como rodar os testes](#Como-rodar-os-testes)
 
-Insira os tópicos do README em links para facilitar a navegação do leitor
+:small_blue_diamond: [Linguagem](#linguagem)
+
+:small_blue_diamond: [Desenvolvedores](#Desenvolvedores)
+
+:small_blue_diamond: [Licença ](#Licença )
+
+
+
+## 📁 Acesso ao projeto
+
+ [Acesso do código fonte da simulação.](https://github.com/Luan-Nijou/GS-Edge/blob/main/Code)
 
 ## Descrição do projeto 
 
@@ -34,17 +42,13 @@ Insira os tópicos do README em links para facilitar a navegação do leitor
 
 ## Layout da Simulação 
 
-> Link da simulação: 
 
 ![GS Plantação vertical](https://github.com/Luan-Nijou/GS-Edge/assets/126830016/637f6625-c20c-4e84-b0c5-b86636656406)
 
 
-Se ainda não houver deploy, insira capturas de tela da aplicação ou gifs
-
-
 ## Como rodar a aplicação :arrow_forward:
 
-Componentes | 
+Componentes | aaa
 --------- | ------
 Exemplo 1 | R$ 10
 Exemplo 2 | R$ 8
@@ -59,16 +63,6 @@ Ao entrar no link da [Simulação](https://www.tinkercad.com/things/7a1kTytKkkD-
 
 Coloque um passo a passo para executar os testes
 
-```
-$ npm test, rspec, etc 
-```
-
-## Casos de Uso
-
-Explique com mais detalhes como a sua aplicação poderia ser utilizada. O uso de **gifs** aqui seria bem interessante. 
-
-Exemplo: Caso a sua aplicação tenha alguma funcionalidade de login apresente neste tópico os dados necessários para acessá-la.
-
 
 
 ## Linguagem
@@ -76,16 +70,15 @@ Exemplo: Caso a sua aplicação tenha alguma funcionalidade de login apresente n
 <img src="https://www.alura.com.br/artigos/assets/formacao-linguagem-c-plus-plus/img-01.png" width=50/>
 
 
-## Desenvolvedor :octocat:
+## Desenvolvedores :octocat:
 
 
-| [<img src="https://avatars.githubusercontent.com/u/126830016?s=400&v=4" width=115><br><sub>Luan Nijou</sub>](https://github.com/Luan-Nijou) | [<img src="https://avatars.githubusercontent.com/u/126830016?s=400&v=4" width=115><br><sub>Luan Nijou</sub>](https://github.com/Luan-Nijou) | [<img src="https://avatars.githubusercontent.com/u/126830016?s=400&v=4" width=115><br><sub>Luan Nijou</sub>](https://github.com/Luan-Nijou) |
-| :---: | :---: | :---: |
+| [<img src="https://i.imgur.com/ZIv3QYz.jpg" width=150 height= 150><br><sub>Luan Nijou</sub>](https://github.com/Luan-Nijou) | [<img src="https://i.imgur.com/FZyQdzq.jpg" width=150 height= 150><br><sub>Roberto Oliveira Azzalin</sub>](https://github.com/Robertooan07) | [<img src="https://i.imgur.com/KactqDe.jpg" width=150 height= 150><br><sub>Tony Willian</sub>](https://github.com/TonyWillianFIAP) | [<img src="https://i.imgur.com/MEqkl53.jpg" width=150 height= 150><br><sub>Gabriel Augusto Maciel</sub>](https://github.com/GabrielToledoo) | [<img src="https://avatars.githubusercontent.com/u/113686045?v=4" width=150 height= 150><br><sub>Henrique Parra Benitez</sub>](https://github.com/rickparra) |
+| :---: | :---: | :---: | :---: | :---: |
 
-## Time
 
 ## Licença 
 
 The [MIT License]() (MIT)
 
-Copyright :copyright: Ano - Titulo do Projeto
+Copyright :copyright: 2023 - FOODFLOW
