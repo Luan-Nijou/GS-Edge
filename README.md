@@ -11,7 +11,7 @@
 
 ### Tópicos 
 
-:small_blue_diamond: [Acesso ao projeto](#📁-acesso-ao-projeto)
+:small_blue_diamond: [Acesso ao projeto](#📁acesso-ao-projeto)
 
 :small_blue_diamond: [Descrição do projeto](#descrição-do-projeto)
 
@@ -23,7 +23,7 @@
 
 :small_blue_diamond: [Linguagem](#linguagem)
 
-:small_blue_diamond: [Desenvolvedores](#Desenvolvedores-:octocat:)
+:small_blue_diamond: [Desenvolvedores](#Desenvolvedores:octocat:)
 
 :small_blue_diamond: [Licença ](#Licença )
 
