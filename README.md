@@ -27,7 +27,7 @@ Insira os tópicos do README em links para facilitar a navegação do leitor
 ## Descrição do projeto 
 
 <p align="justify">
-  Descrição breve do projeto compondo um paragrafo ou dois. 
+ Simulação feita no tinkercad para controle de ambiente para uma plantação. Controlando niveis de luminosidade, temperatura e umidade. 
 </p>
 
 ## Funcionalidades
@@ -40,7 +40,7 @@ Insira os tópicos do README em links para facilitar a navegação do leitor
 
 :heavy_check_mark: Funcionalidade 4  
 
-## Layout ou Deploy da Aplicação :dash:
+## Layout da Aplicação :dash:
 
 > Link do deploy da aplicação. Exemplo com netlify: https://certificates-for-everyone-womakerscode.netlify.app/
 
@@ -48,23 +48,10 @@ Insira os tópicos do README em links para facilitar a navegação do leitor
 
 Se ainda não houver deploy, insira capturas de tela da aplicação ou gifs
 
-## Pré-requisitos
-
-:warning: [Node](https://nodejs.org/en/download/)
-
-...
-
-Liste todas as dependencias e libs que o usuário deve ter instalado na máquina antes de rodar a aplicação 
 
 ## Como rodar a aplicação :arrow_forward:
 
-No terminal, clone o projeto: 
-
-```
-git clone https://github.com/React-Bootcamp-WoMarkersCode/certificate-generator
-```
-
-... 
+Ao entrar no 
 
 Coloque um passo a passo para rodar a sua aplicação. **Dica: clone o próprio projeto e verfique se o passo a passo funciona**
 
