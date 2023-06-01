@@ -1,5 +1,6 @@
-<h1>Titulo ou Arte do Projeto</h1> 
-
+<p align="center">
+<img src="https://github.com/Luan-Nijou/GS-Edge/assets/126830016/78f30d66-4e7a-4dfe-b661-954d9fee8054"/>
+</p>
 <p align="center">
  
   <img src="http://img.shields.io/static/v1?label=License&message=MIT&color=green&style=for-the-badge"/>
@@ -14,7 +15,7 @@
 
 :small_blue_diamond: [Funcionalidades](#funcionalidades)
 
-:small_blue_diamond: [Deploy da Aplicação](#deploy-da-aplicação-dash)
+:small_blue_diamond: [Layout da Aplicação](#layout-da-Aplicação)
 
 :small_blue_diamond: [Pré-requisitos](#pré-requisitos)
 
@@ -27,33 +28,32 @@ Insira os tópicos do README em links para facilitar a navegação do leitor
 ## Descrição do projeto 
 
 <p align="justify">
- Simulação feita no tinkercad para controle de ambiente para uma plantação. Controlando niveis de luminosidade, temperatura e umidade. 
-</p>
+ Simulação feita no tinkercad para controle de ambiente para uma plantação. Controlando niveis de luminosidade, temperatura, umidade
+ e reservatório de líquido. 
+</p> 
 
-## Funcionalidades
+## Layout da Simulação 
 
-:heavy_check_mark: Funcionalidade 1  
+> Link da simulação: 
 
-:heavy_check_mark: Funcionalidade 2  
+![GS Plantação vertical](https://github.com/Luan-Nijou/GS-Edge/assets/126830016/637f6625-c20c-4e84-b0c5-b86636656406)
 
-:heavy_check_mark: Funcionalidade 3  
-
-:heavy_check_mark: Funcionalidade 4  
-
-## Layout da Aplicação :dash:
-
-> Link do deploy da aplicação. Exemplo com netlify: https://certificates-for-everyone-womakerscode.netlify.app/
-
-... 
 
 Se ainda não houver deploy, insira capturas de tela da aplicação ou gifs
 
 
 ## Como rodar a aplicação :arrow_forward:
 
-Ao entrar no 
+Componentes | 
+--------- | ------
+Exemplo 1 | R$ 10
+Exemplo 2 | R$ 8
+Exemplo 3 | R$ 7
+Exemplo 4 | R$ 8
 
-Coloque um passo a passo para rodar a sua aplicação. **Dica: clone o próprio projeto e verfique se o passo a passo funciona**
+Ao entrar no link da [Simulação](https://www.tinkercad.com/things/7a1kTytKkkD-copy-of-tempumidlumi-para-lcd-online/editel?sharecode=-k2F6HGpiueldwrmSa0_1SWD8ye2jwgqDHiO8wmrYVQ), irá levar para o site do Tinkercad. Assim na própria tela, no canto superior direito terá um botão escrito **Iniciar Simulação** (Para ver a simulação funcionando) e um botão escrito **Código** (Para ver o código escrito).
+
+
 
 ## Como rodar os testes
 
@@ -69,51 +69,20 @@ Explique com mais detalhes como a sua aplicação poderia ser utilizada. O uso d
 
 Exemplo: Caso a sua aplicação tenha alguma funcionalidade de login apresente neste tópico os dados necessários para acessá-la.
 
-## JSON :floppy_disk:
 
-### Usuários: 
 
-|name|email|password|token|avatar|
-| -------- |-------- |-------- |-------- |-------- |
-|Lais Lima|laislima98@hotmail.com|lais123|true|https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS9-U_HbQAipum9lWln3APcBIwng7T46hdBA42EJv8Hf6Z4fDT3&usqp=CAU|
+## Linguagem
 
-... 
+<img src="https://www.alura.com.br/artigos/assets/formacao-linguagem-c-plus-plus/img-01.png" width=50/>
 
-Se quiser, coloque uma amostra do banco de dados 
 
-## Iniciando/Configurando banco de dados
+## Desenvolvedor :octocat:
 
-Se for necessário configurar algo antes de iniciar o banco de dados insira os comandos a serem executados 
 
-## Linguagens, dependencias e libs utilizadas :books:
+| [<img src="https://avatars.githubusercontent.com/u/126830016?s=400&v=4" width=115><br><sub>Luan Nijou</sub>](https://github.com/Luan-Nijou) | [<img src="https://avatars.githubusercontent.com/u/126830016?s=400&v=4" width=115><br><sub>Luan Nijou</sub>](https://github.com/Luan-Nijou) | [<img src="https://avatars.githubusercontent.com/u/126830016?s=400&v=4" width=115><br><sub>Luan Nijou</sub>](https://github.com/Luan-Nijou) |
+| :---: | :---: | :---: |
 
-- [React](https://pt-br.reactjs.org/docs/create-a-new-react-app.html)
-- [React PDF](https://react-pdf.org/)
-
-...
-
-Liste as tecnologias utilizadas no projeto que **não** forem reconhecidas pelo Github 
-
-## Resolvendo Problemas :exclamation:
-
-Em [issues]() foram abertos alguns problemas gerados durante o desenvolvimento desse projeto e como foram resolvidos. 
-
-## Tarefas em aberto
-
-Se for o caso, liste tarefas/funcionalidades que ainda precisam ser implementadas na sua aplicação
-
-:memo: Tarefa 1 
-
-:memo: Tarefa 2 
-
-:memo: Tarefa 3 
-
-## Desenvolvedores/Contribuintes :octocat:
-
-Liste o time responsável pelo desenvolvimento do projeto
-
-| [<img src="https://avatars2.githubusercontent.com/u/46378210?s=400&u=071f7791bb03f8e102d835bdb9c2f0d3d24e8a34&v=4" width=115><br><sub>Diana Regina</sub>](https://github.com/Diana-ops) |  [<img src="https://avatars2.githubusercontent.com/u/46378210?s=400&u=071f7791bb03f8e102d835bdb9c2f0d3d24e8a34&v=4" width=115><br><sub>Diana Regina</sub>](https://github.com/Diana-ops) |  [<img src="https://avatars2.githubusercontent.com/u/46378210?s=400&u=071f7791bb03f8e102d835bdb9c2f0d3d24e8a34&v=4" width=115><br><sub>Diana Regina</sub>](https://github.com/Diana-ops) |
-| :---: | :---: | :---: 
+## Time
 
 ## Licença 
 
