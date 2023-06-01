@@ -23,7 +23,7 @@
 
 :small_blue_diamond: [Linguagem](#linguagem)
 
-:small_blue_diamond: [Desenvolvedores](#Desenvolvedores-)
+:small_blue_diamond: [Desenvolvedores](#desenvolvedores-octocat)
 
 :small_blue_diamond: [Licença ](#Licença )
 
