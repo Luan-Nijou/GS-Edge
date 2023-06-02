@@ -42,26 +42,28 @@
 
 ## Layout da Simulação 
 
+![Copy of GS Plantação vertical](https://github.com/Luan-Nijou/GS-Edge/assets/126830016/436d6986-3eb5-47f6-8087-69d516220e19)
 
-![GS Plantação vertical](https://github.com/Luan-Nijou/GS-Edge/assets/126830016/637f6625-c20c-4e84-b0c5-b86636656406)
+![Componentes](https://github.com/Luan-Nijou/GS-Edge/assets/126830016/07b7b400-1d38-4a1d-8713-9cc403fbc0e8)
 
 
 ## Como rodar a aplicação :arrow_forward:
 
-Componentes | aaa
---------- | ------
-Exemplo 1 | R$ 10
-Exemplo 2 | R$ 8
-Exemplo 3 | R$ 7
-Exemplo 4 | R$ 8
 
-Ao entrar no link da [Simulação](https://www.tinkercad.com/things/7a1kTytKkkD-copy-of-tempumidlumi-para-lcd-online/editel?sharecode=-k2F6HGpiueldwrmSa0_1SWD8ye2jwgqDHiO8wmrYVQ), irá levar para o site do Tinkercad. Assim na própria tela, no canto superior direito terá um botão escrito **Iniciar Simulação** (Para ver a simulação funcionando) e um botão escrito **Código** (Para ver o código escrito).
+Ao entrar no link da [Simulação](https://www.tinkercad.com/things/eLjoggoASTQ-copy-of-gs-plantacao-vertical), irá levar para o site do Tinkercad. Assim na própria tela, no canto superior direito terá um botão escrito **Iniciar Simulação** (Para ver a simulação funcionando) e um botão escrito **Código** (Para ver o código que foi escrito).
 
 
 
 ## Como rodar os testes
 
-Coloque um passo a passo para executar os testes
+![Componentes de testes](https://github.com/Luan-Nijou/GS-Edge/assets/126830016/53fa4147-e9bb-4877-a9a2-b6e343194aa2)
+
+<p>Possuindo o próprio site para a simulação, ao clicar no botão **Iniciar Simulação**, será possível mudar os 5 componentes:</p>
+<p align="justify">> 1 - Componente chamado potenciômetro: Ao mexer na chavinha preta, será possível regular tanto para a direita, quanto para a esquerda, e fará com que o LCD fiquei mais iluminado(Ao colocar a chave mais para a direita) ou fique apagado(Ao colocar a chave mais para a esquerda). </p>
+<p align="justify">> 2 - Outro potenciômetro: Como já foi falado, a chave preta regula algo. No ponto 2, é uma simulação da umidade, em que está mapeada de 0%(total para a esquerda) até 100%(total para a direita). </p>
+<p align="justify">> 3 - Componente chamado TMP36: Ele controla a temperatura, com uma faixa de erro bem pequena. Em que, ao clicar sobre ele, irá aparecer um sistema de regulagem, que vai de -40°C(total para a esquerda) até 125°C(total para a direita). </p>
+<p align="justify">>  4 - Componente chamado LDR: Ele controla a luminosidade. Em que, ao clicar sobre ele, irá aparecer um sistema de regulagem, que vai do ambiente mais escuro (total para esquerda) para um ambiente mais claro (total para direita). </p>
+<p align="justify">>   5 - Outro potenciômetro: Como já foi falado, a chave preta regula algo. No ponto 5, é uma simulação da quantidade de um líquido que está armazenado, assim controlando se está á um nível baixo, ou está ok. Com base de um local de 2000 litros, se estiver abaixo ou igual a 600 litros, irá tocar o buzzer, por está abaixo do nível.</p>
 
 
 
