@@ -58,7 +58,7 @@ Ao entrar no link da [Simulação](https://www.tinkercad.com/things/eLjoggoASTQ-
 
 ![Componentes de testes](https://github.com/Luan-Nijou/GS-Edge/assets/126830016/53fa4147-e9bb-4877-a9a2-b6e343194aa2)
 
-<p>Possuindo o próprio site para a simulação, ao clicar no botão **Iniciar Simulação**, será possível mudar os 5 componentes:</p>
+<p>Possuindo o próprio site para a simulação, ao clicar no botão "Iniciar Simulação", será possível testar os 5 componentes:</p>
 <p align="justify">> 1 - Componente chamado potenciômetro: Ao mexer na chavinha preta, será possível regular tanto para a direita, quanto para a esquerda, e fará com que o LCD fiquei mais iluminado(Ao colocar a chave mais para a direita) ou fique apagado(Ao colocar a chave mais para a esquerda). </p>
 <p align="justify">> 2 - Outro potenciômetro: Como já foi falado, a chave preta regula algo. No ponto 2, é uma simulação da umidade, em que está mapeada de 0%(total para a esquerda) até 100%(total para a direita). </p>
 <p align="justify">> 3 - Componente chamado TMP36: Ele controla a temperatura, com uma faixa de erro bem pequena. Em que, ao clicar sobre ele, irá aparecer um sistema de regulagem, que vai de -40°C(total para a esquerda) até 125°C(total para a direita). </p>
