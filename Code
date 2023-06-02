@@ -7,7 +7,6 @@ int LDR_PIN = A0;
 int Temp_PIN = A1;
 int Hum_Pin = A2;
 int Quant_Liquido_Pin = A3;
-int Lampada = 7;
 
 int luminosity;
 float tempC = 0;
@@ -16,9 +15,6 @@ float Armazen_Solu_Nutri = 0;
 const int BUZZER_PIN = 9;
 
 
-float accuml = 0;
- int contador = 0;
-
 // Variáveis para calcular a temperatura 
 int RawValue = 0;
 double Voltage = 0;
@@ -26,7 +22,7 @@ double Voltage = 0;
 
 
 // Define os limiares dos niveis do ambiente
-//(luminosidade, umidade e temperatura)
+//(luminosidade, umidade, temperatura e reserva)
 int MODO_OK = 870;    // Nível de luminosidade considerado OK
 int MODO_ALERTA = 950;  // Nível de luminosidade considerado em ALERTA
 int humi_OK = 30; // Nível de umidade considerado OK
@@ -48,7 +44,7 @@ void setup() {
   Serial.begin(9600);
   pinMode(A2, INPUT);
   pinMode(A3, INPUT);
-  pinMode(Lampada,OUTPUT);
+  
   
   
 }
@@ -62,9 +58,8 @@ void Solu_Nutri_Rod() {
   	 lcd.setCursor(0, 1);
      lcd.print(map(Armazen_Solu_Nutri,0,1023,0,2000)); 
      lcd.print("L"); 
-    
-     
      tone(BUZZER_PIN,1000,3000);
+ 	
     } else {
     lcd.clear();
   	lcd.setCursor(0, 0);
@@ -72,7 +67,7 @@ void Solu_Nutri_Rod() {
   	lcd.setCursor(0, 1);
     lcd.print(map(Armazen_Solu_Nutri,0,1023,0,2000)); 
     lcd.print("L"); 
-    
+    noTone(BUZZER_PIN);
   }
 }
 
@@ -182,8 +177,8 @@ void loop() {
   
   
   /* Verifica o estado atual do sistema. Cada caso, 
-     lê a luminosidade, a temperatura e a umidade.
-  
+     lê a luminosidade, a temperatura, a umidade e 
+     a reserva do líquido.
   */
    switch (LumiState) {
   	case 0:      
