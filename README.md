@@ -64,6 +64,7 @@ Ao entrar no link da [Simulação](https://www.tinkercad.com/things/eLjoggoASTQ-
 <p align="justify">> 3 - Componente chamado TMP36: Ele controla a temperatura, com uma faixa de erro bem pequena. Em que, ao clicar sobre ele, irá aparecer um sistema de regulagem, que vai de -40°C(total para a esquerda) até 125°C(total para a direita). </p>
 <p align="justify">>  4 - Componente chamado LDR: Ele controla a luminosidade. Em que, ao clicar sobre ele, irá aparecer um sistema de regulagem, que vai do ambiente mais escuro (total para esquerda) para um ambiente mais claro (total para direita). </p>
 <p align="justify">>   5 - Outro potenciômetro: Como já foi falado, a chave preta regula algo. No ponto 5, é uma simulação da quantidade de um líquido que está armazenado, assim controlando se está á um nível baixo, ou está ok. Com base de um local de 2000 litros, se estiver abaixo ou igual a 600 litros, irá tocar o buzzer, por está abaixo do nível.</p>
+<br align="justify"> As mudanças feitas nos componentes 2,3,4 e 5 demoram pelo menos 2 segundo para aparer no LCD.
 
 
 
