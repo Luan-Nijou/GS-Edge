@@ -74,10 +74,10 @@ void setup() {
 //Função para controle da quantidade de um liquido 
 void Solu_Nutri_Rod() {
   if (map(Armazen_Solu_Nutri,0,1023,0,2000) <= Solu_Nutri_ALERTA) {
- 	lcd.clear();
+  	lcd.clear();
   	lcd.setCursor(0, 0);
   	lcd.print("Reserva BAIXA");
- 	lcd.setCursor(0, 1);
+ 	  lcd.setCursor(0, 1);
     lcd.print(map(Armazen_Solu_Nutri,0,1023,0,2000)); 
     lcd.print("L"); 
     tone(BUZZER_PIN,1000,3000); 	
@@ -96,7 +96,7 @@ void Solu_Nutri_Rod() {
 //Função para controle de temperatura
 void Temp_Rod() {
   if (tempC<temp_OK) {
- 	lcd.clear();
+ 	  lcd.clear();
   	lcd.setCursor(0, 0);
   	lcd.print("Temp. Baixa ");
   	lcd.setCursor(0, 1);
@@ -133,11 +133,11 @@ menor que 30% seja umidade BAIXA; para menor que 70% seja OK;
 e para maior que 70% esteja ALERTA.*/
 void Humi_Rod() {
   if (map(sensorhumidade, 0, 1023, 0, 100)<humi_OK) {
- 	lcd.clear();
+  	lcd.clear();
   	lcd.setCursor(0, 0);
   	lcd.print("Umid. Baixa ");
   	lcd.setCursor(0, 1);
- 	lcd.print("Umid. = ");
+  	lcd.print("Umid. = ");
     lcd.setCursor(8, 1);
   	lcd.print(map(sensorhumidade, 0, 1023, 0, 100));
     lcd.println("%");
